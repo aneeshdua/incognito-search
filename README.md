@@ -6,6 +6,12 @@ Extension for chrome based browsers to search in incognito in right click (conte
 2. Turn on developer mode in the browser
 3. Click "Load Unpacked" in extensions page and select the "src" folder
 
+## Browsers tested on
+
+* Chrome
+* Brave
+* Microsoft Edge
+  
 ## Device Permissions Used
 * Context Menus
 * Tabs
